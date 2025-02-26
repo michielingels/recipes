@@ -7,6 +7,7 @@
 * salt
 * pepper
 * optional: tomato cubes
-* must: garlic
+* must: lots 
+garlic
 ## Instructions
 
